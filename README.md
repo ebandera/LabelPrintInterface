@@ -1,0 +1,2 @@
+# LabelPrintInterface
+Dll
